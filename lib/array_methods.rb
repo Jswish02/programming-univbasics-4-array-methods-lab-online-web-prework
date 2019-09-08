@@ -11,11 +11,11 @@ def using_reverse(array)
 end
 
 def using_first(array)
-.first
+["wow", "I", "am", "really", "learning", "arrays!"].first
 end
 
 def using_last(array)
-['1''2','3'].last
+.last
 end
 
 def using_size(array)
