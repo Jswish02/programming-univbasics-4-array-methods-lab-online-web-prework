@@ -1,5 +1,5 @@
 def using_include(array, element)
-['dog','cat','pig'].include(wow)
+.include(wow)
 end
 
 def using_sort(array)
