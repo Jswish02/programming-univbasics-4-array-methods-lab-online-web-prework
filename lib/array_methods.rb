@@ -4,7 +4,7 @@ end
 
 def using_sort(array)
 ['dog','cat','pig']
-array.sort
+[].sort
 end
 
 def using_reverse(array)
